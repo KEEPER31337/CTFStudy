@@ -1,6 +1,6 @@
 # CTF_study
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ### 작성법
 + 포크 따서 본인의 폴더를 만든다.
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/publdaze"><img src="https://avatars.githubusercontent.com/u/78250089?v=4?s=100" width="100px;" alt=""/><br /><sub><b>publdaze</b></sub></a><br /><a href="#ideas-publdaze" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://None"><img src="https://avatars.githubusercontent.com/u/49471288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>c0np4nn4</b></sub></a><br /><a href="#ideas-c0np4nn4" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/HSHwan"><img src="https://avatars.githubusercontent.com/u/86449722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HSHwan</b></sub></a><br /><a href="#ideas-HSHwan" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/JinukHong"><img src="https://avatars.githubusercontent.com/u/45095330?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JinukHong</b></sub></a><br /><a href="#ideas-JinukHong" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
