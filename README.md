@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/1004-head"><img src="https://avatars.githubusercontent.com/u/65378326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>1004-head</b></sub></a><br /><a href="#design-1004-head" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/1004-head"><img src="https://avatars.githubusercontent.com/u/65378326?v=4?s=100" width="100px;" alt=""/><br /><sub><b>1004-head</b></sub></a><br /><a href="#design-1004-head" title="Design">🎨</a> <a href="#ideas-1004-head" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
