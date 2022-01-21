@@ -29,4 +29,4 @@ for i in range(len(temp)):
 
 
 print(orgv5)
-#KKTK{So_YoU_ROT_iT_gOOd_jOOb}
+#KKTK{So_YoU_ROT_iT_gOOd_jOOb} 근데 이제 앞을 KCTF로 바꿔줘야하는

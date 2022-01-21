@@ -23,3 +23,4 @@ for i in range(len(v4)):
         else: tempst += v4[i]
 
 print(tempst)
+#정답: KCTF{aTbAsH_cIpHeR_wItH_sOmE_tWiSt}
