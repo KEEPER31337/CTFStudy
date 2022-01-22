@@ -4,7 +4,7 @@
 ---
 
 ![image](https://user-images.githubusercontent.com/49471288/150625926-de6ced94-433b-434e-9687-e9840aaa2728.png)
-#### Through the link below the description of challenge, There are two files.
+#### Through the link, There are two files.
 #### "letter.txt" is the letter from villain named **Mandarin**
 ---
 
