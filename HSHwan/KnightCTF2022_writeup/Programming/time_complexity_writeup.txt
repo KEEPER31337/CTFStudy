@@ -1,0 +1,7 @@
+procedure max (a1, a2, …, an: integers)
+max := a1
+for i :=2 to n
+if max < a1 then max := ai
+{max is the largest element}
+
+-> θ(n)
