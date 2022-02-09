@@ -1,0 +1,29 @@
+To protect Christmas gifts from thieves, our security manager decided to introduce a new cipher system.
+In this system, Blowfish algorithm with ECB mode is used and its initial value is set to 0.
+Secret information is included things like the password of the safe.
+The details are as follows :
+ 
+ 
+Encryption
+1. Prepare randomly generated 8-byte keys, K1, K2.
+2. p = base64.decode(plaintext).
+3. Perform C1 = Blowfish.encrypt(K1, p).
+4. Perform C2 = Blowfish.encrypt(K2, C1).
+5. Perform ciphertext = base64.encode(C2).
+ 
+ 
+Decryption
+1. Prepare K1, K2.
+2. c = base64.decode(ciphertext).
+3. Perform D2 = Blowfish.decrypt(K2, c).
+4. Perform D1 = Blowfish.decrypt(K1, D2).
+5. Perform plaintext = base64.encode(D1).
+ 
+ 
+Here are two examples.
+1. plaintext: "QUJDREVGR0g="             ciphertext: "J8LFHyoEuoo="
+2. plaintext: "MTIzNDU2Nzg="             ciphertext: "BO9qLlWi45U="
+ 
+ 
+K1 and K2 were secretly sent to all of the santas.
+Be careful not to expose the keys.
