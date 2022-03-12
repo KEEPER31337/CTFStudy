@@ -28,6 +28,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/lcqff"><img src="https://avatars.githubusercontent.com/u/71930280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lcqff</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/tmdals010126"><img src="https://avatars.githubusercontent.com/u/26674692?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tmdals010126</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jaden372"><img src="https://avatars.githubusercontent.com/u/26597765?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jaden372</b></sub></a><br /></td>
   </tr>
 </table>
 
